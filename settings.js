@@ -2,26 +2,26 @@ const fs = require('fs')
 const chalk = require('chalk')
 
 //contact details
-global.ownernomer = "242069283966"
+global.ownernomer = "243983861046"
 global.ownername = "Senju Hashirama"
 global.ytname = "YT: KermHackTools"
 global.socialm = "GitHub: Kgtech-cmr"
 global.location = "Cameroon, douala, yaoundé"
 
-global.ownernumber = '242069283966'  //creator number
+global.ownernumber = '243983861046'  //creator number
 global.ownername = 'senju' //creatoe name
 global.botname = 'hashirama' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = 'ད𝙆𝙚𝙧𝙢𝘽𝙪𝙜 𝙑2༒\n\nYouTube KermHackTools'
+global.author = '243983861046'
 
 //console view/theme
 global.themeemoji = '🪀'
 global.wm = "Kerm Bug Bot."
 
 //theme link
-global.link = 'https://whatsapp.com/channel/0029Vafn6hc7DAX3fzsKtn45'
+global.link = 
 
 //custom prefix
 global.prefa = ['','!','.','#','&']
