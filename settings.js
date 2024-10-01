@@ -9,7 +9,7 @@ global.socialm = "GitHub: Kgtech-cmr"
 global.location = "Cameroon, douala, yaoundé"
 
 global.ownernumber = '242069283966'  //creator number
-global.ownername = 'senju' //creatoe name
+global.ownername = 'senju hashirama' //creatoe name
 global.botname = 'hashirama' //name of the bot
 
 //sticker details
