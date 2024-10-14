@@ -8,13 +8,13 @@ global.ytname = "YT: KermHackTools"
 global.socialm = "GitHub: Kgtech-cmr"
 global.location = "Cameroon, douala, yaoundé"
 
-global.ownernumber = '243983861046'  //creator number
+global.ownernumber = '243984851136'  //creator number
 global.ownername = 'senju hashirama' //creatoe name
 global.botname = 'hashirama' //name of the bot
 
 //sticker details
 global.packname = 'Sticker By'
-global.author = '243983861046'
+global.author = '243984851136'
 
 //console view/theme
 global.themeemoji = '🪀'
